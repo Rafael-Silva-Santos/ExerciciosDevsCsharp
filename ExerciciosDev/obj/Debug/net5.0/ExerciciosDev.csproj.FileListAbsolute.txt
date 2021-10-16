@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.exe
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.deps.json
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.runtimeconfig.json
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.dll
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ref\ExerciciosDev.dll
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\bin\Debug\net5.0\ExerciciosDev.pdb
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.dll
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ref\ExerciciosDev.dll
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.pdb
+C:\Users\Asus\source\repos\ExerciciosDev\ExerciciosDev\obj\Debug\net5.0\ExerciciosDev.genruntimeconfig.cache
